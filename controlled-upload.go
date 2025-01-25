@@ -1,4 +1,4 @@
-package controlled_upload_go
+package controlledupload
 
 import (
 	"net/http"
